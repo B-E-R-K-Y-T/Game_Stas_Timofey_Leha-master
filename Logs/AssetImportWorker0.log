@@ -1,117 +1,99 @@
 Using pre-set license
 Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 7  (6.1.0) 64bit' Language: 'ru' Physical Memory: 8115 MB
+OS: 'Windows 10 Home; OS build 19042.631; Version 2009; 64bit' Language: 'ru' Physical Memory: 16332 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-D:\Program\Unity Hub\2020.2.3f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Program/Unity/Projects/Game_Stas_Timofey_Leha-master
+C:/The Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50918
-Successfully changed project path to: D:/Program/Unity/Projects/Game_Stas_Timofey_Leha-master
-D:/Program/Unity/Projects/Game_Stas_Timofey_Leha-master
+51481
+Successfully changed project path to: C:/The Game
+C:/The Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 54.67 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 32.67 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
-[Subsystems] Discovering subsystems at path D:/Program/Unity Hub/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Program/Unity/Projects/Game_Stas_Timofey_Leha-master/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/The Game/Assets
 GfxDevice: creating device client; threaded=0
-d3d11: CreateDXGIFactory2(...) not found, fallbacking to CreateDXGIFactory1(...).
-d3d11: QueryInterface(IDXGIFactory5) failed (80004002).
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
     Vendor:   
-    VRAM:     4002 MB
-    Driver:   27.21.14.5709
+    VRAM:     4018 MB
+    Driver:   27.21.14.6192
 Initialize mono
-Mono path[0] = 'D:/Program/Unity Hub/2020.2.3f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Program/Unity Hub/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/Program/Unity Hub/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56048
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Program/Unity Hub/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001154 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001682 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 52.38 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.24 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.796 seconds
+- Completed reload, in  1.149 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001907 seconds.
+Registered in 0.000669 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 55.47 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.35 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.179 seconds
+- Completed reload, in  0.714 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1959 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.1 MB.
+Unloading 1940 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2397.
-Total: 3.650945 ms (FindLiveObjects: 0.633887 ms CreateObjectMapping: 0.170020 ms MarkObjects: 2.691774 ms  DeleteObjects: 0.153339 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scripts/PlayerController.cs
-  artifactKey: Guid(6841f813c2800a74892f262db6aabdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerController.cs using Guid(6841f813c2800a74892f262db6aabdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768a6c6371781062c90bcf55b7c678cb') in 0.177286 seconds
-  Import took 0.181741 seconds .
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 1.946200 ms (FindLiveObjects: 0.210300 ms CreateObjectMapping: 0.045800 ms MarkObjects: 1.537700 ms  DeleteObjects: 0.151600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Scripts/Scar_Enemy/Dog_Enemy.cs
-  artifactKey: Guid(e15c9cc35e394354495f24ca3d27d033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Scar_Enemy/Dog_Enemy.cs using Guid(e15c9cc35e394354495f24ca3d27d033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddad6eb776c6b1bf2b6bb41b88f030f5') in 0.017112 seconds
-  Import took 0.021647 seconds .
+  path: Assets/Tiles/Platforms.png
+  artifactKey: Guid(f1ced99f25be8fd41b20c4711e43c696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Platforms.png using Guid(f1ced99f25be8fd41b20c4711e43c696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4169a7b5c12a12a0880e2425d4e1e025') in 0.130104 seconds
+  Import took 0.133526 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000458 seconds.
-  path: Assets/Scripts/Scar_Enemy/Scar_Auxiliary/Projectile.cs
-  artifactKey: Guid(9d578bbad19d3314b9fbe84e1c6285f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Scar_Enemy/Scar_Auxiliary/Projectile.cs using Guid(9d578bbad19d3314b9fbe84e1c6285f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5e619a3da43c5d2f3392607ee77507') in 0.002520 seconds
-  Import took 0.007582 seconds .
+  Time since last request: 9.161822 seconds.
+  path: Assets/Tiles/Platforms.png
+  artifactKey: Guid(f1ced99f25be8fd41b20c4711e43c696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Platforms.png using Guid(f1ced99f25be8fd41b20c4711e43c696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac24d9ef5746b5f101b84e8cdddeed9') in 0.074241 seconds
+  Import took 0.077609 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Scripts/HealthBar.cs
-  artifactKey: Guid(0744d88ab6a99434694435e33af4cd29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/HealthBar.cs using Guid(0744d88ab6a99434694435e33af4cd29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41d66b445232f9717065470681ae693') in 0.001267 seconds
-  Import took 0.020279 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000342 seconds.
-  path: Assets/Scripts/Scar_Enemy/Spitting_enemy.cs
-  artifactKey: Guid(ecda710bff66ab648b03324a253fe1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Scar_Enemy/Spitting_enemy.cs using Guid(ecda710bff66ab648b03324a253fe1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4beea6caf4518527ce883982cfaa4d') in 0.021074 seconds
-  Import took 0.026217 seconds .
+  Time since last request: 5.923025 seconds.
+  path: Assets/Tiles/Platforms.png
+  artifactKey: Guid(f1ced99f25be8fd41b20c4711e43c696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Platforms.png using Guid(f1ced99f25be8fd41b20c4711e43c696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c754e23162441f2fb19f790fd788b970') in 0.075521 seconds
+  Import took 0.079043 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
